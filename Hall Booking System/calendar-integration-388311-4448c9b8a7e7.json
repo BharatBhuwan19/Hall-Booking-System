@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "calendar-integration-388311",
+  "private_key_id": "4448c9b8a7e7cfff2368b22ca79b9c5b5d82cc14",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoezdsXqTXNeEh\nVsGLShXP9dOag3Tiy5aK1mnzI/dOirnpOVgxwOmA6ituAPhMOtj8curfYxnWzrGD\ntaBqXdESDy6fqAFDwemmpIxBitT6MPjhjQe86Z4CEvnLMzt3BH0se6+ckNZpl/Gj\ngC9xrMgQ1w2Lt3BoVKTrm7JYTC+9v6AUDlItQf0GDhkPLR4qjeqKWvCiVf1UXH5r\ntev4aQg66cWYJCE9bvUg39M5VrFjQMvIobkxH3J9ktqprWi+AhktnGbjJyNiNDYB\nGf5Zxmfu24kf2yH9do2FXdUNCd6qAUrL8XkZ//EMYGi2vRzNTj69Oi56lcYkHjy3\nsDp2ZdvnAgMBAAECggEANQlYuJoQjRjObnbHhYgEVss9WfIQ3QYWtUzq3FnRk51z\nCbp+C2d9ehH9KutOPnz16n5odnrVWvwFAH+v6FvxIRy7YhH6l/BWk5lP95/zDHFX\nH3WMXokyLtf3X2KY0Q4OM28aKJCllmb4762+AaxQ7JAuGPHdhlJC+lIwccBF9RZ2\n8P0TWSRR//0KnERZp1vPtX5dFl372OkuVL/FYpWnTpJPnvnfYelryKz4Yy78Smpg\nRhWh65xiOP6+FT4/AuLCo5OpNQFsbnXivyEe8/WrLiEOomDIxTWneNQlf+iW6CFe\nPanwTB5O5IBxz9dMbxpaRyvb+xkTPgFMQ1edHepQ6QKBgQDge4SbGZ04Klvcq7Jx\nPbgYV2f4fQozp4Xo20kUNv2uQchTWhdIDXyoFyvQixP0RZ8FbOm904eU2IEp/Cns\nOQ+z/zD+RyVJ6naDokmyoNwHMSykTJN3xZG+J7wJWGXSTJACvTn7y4WZSw1tSnLx\n6xwF/f8RUcMNBb1UCjTjyHEC+QKBgQDAIt8FhC7qHjaRhYkh+yfK+Sqj9Ip7DErr\niIT9GgYj7H2lxcpO0b3A3eQE9kbdb4vwbku7ys/TTbYkppXd7UbbAt+R+NxZ0ELz\n0gmOI7XhdDBlKHYUB0IlmES0+muwlJvSCwdzzPptKajSiE0eDdjJYKr4pA+A4xt8\nBjzC7wKt3wKBgHJy5w/AhmStS/p821Ra2DIo1gxdi8b8IQywSFjzFHE0frLoWrhU\nj/qPHbqMPdcra8DzX1R1tUlQ/MFwG9ug1/24HL13fm5qCJRiOFrHIobULmNx2zmU\nVBLz5S2KkRcgC8gpu5dBk1KtbiILdAEdEkOH1PR6kAxiob1oGsELX3rZAoGAQ235\nhx4UuOVRkVCkB+D03i8D3/Z6gySVRoPq6Eixzvm4Pu1jSrYhOgald3hW9m+nVQHg\nYk+TED09py8veWtEaqhffgMwkfSdCqSz5cZylmUIdvf0OKMze64srrcUBCyjYtus\nCd/uI1Fzhi9/oQSLCGF8nzY0mq8ZfjVSLbdj4VECgYAJqBfNUFpqs9b/6VqPLCxC\nl9gXVuu1Rf6NvRTu4Wbr3BkPEu3mbAyf+k9XltiqmUFgwDAjkyQlm8JKDAwyz8mu\nlV9kb7+Dx+/9z4msjhCnqJZkTmRyyblVMP0fr4c9km6nkIaTybm0FUwPIxlDChKy\ng9kQ1uK0kw4ThJ1Apn7PTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hall-calendar-integration@calendar-integration-388311.iam.gserviceaccount.com",
+  "client_id": "105276821713694185505",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hall-calendar-integration%40calendar-integration-388311.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
